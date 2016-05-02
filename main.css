@@ -21,10 +21,10 @@ p {
 }
 
 a {
-	color: #000;
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: uppercase;
+	color: #000;
 }
 
 a:hover {
@@ -52,11 +52,11 @@ a:hover {
 	margin-bottom: 40px;
 }
 
-li.nav-item {
+.nav-item {
 	display: inline;
 	margin-right: 10px;
-	color: #6d6d6d;
 	padding-left: 10px;
+	color: #6d6d6d;
 }
 
 /***********************************

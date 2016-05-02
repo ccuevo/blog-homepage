@@ -1,3 +1,54 @@
 /***********************************
 			GENERAL TAGS
 ***********************************/
+
+h1 {
+
+}
+
+ol, li {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+p {
+	font-family: "Open Sans", sans-serif;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+/***********************************
+			CONTAINER
+***********************************/
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+/***********************************
+			  FORM
+***********************************/
+
+.hero {
+	background-color: #e6e6fa;
+	padding: 20px 0;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 40px;
+}
+
+/***********************************
+			  POSTS
+***********************************/
+

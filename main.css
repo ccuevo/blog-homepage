@@ -6,6 +6,10 @@ h1 {
 
 }
 
+nav {
+
+}
+
 ol, ul {
 	margin: 0;
 	padding: 0;
@@ -48,11 +52,18 @@ a:hover {
 	margin-bottom: 40px;
 }
 
+li.nav-item {
+	display: inline;
+	margin-right: 10px;
+	color: #6d6d6d;
+	padding-left: 10px;
+}
+
 /***********************************
 			  POSTS
 ***********************************/
 
 .post-meta-item {
 	display: inline;
-	padding: 10px;
+	margin-right: 10px;
 }

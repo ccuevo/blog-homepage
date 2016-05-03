@@ -72,3 +72,16 @@ a:hover {
 	display: inline;
 	margin-right: 10px;
 }
+
+.post-meta-item-like {
+	animation: blink 2s;
+}
+
+/***********************************
+			ANIMATIONS
+***********************************/
+
+@keyframes blink {
+	from {color: #000;}
+	to {color: #add8e6;}
+}
